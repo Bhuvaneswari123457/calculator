@@ -1,0 +1,46 @@
+
+body{
+    background-color: black;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    color:#ffffff;
+    
+    
+}
+table{
+    margin:auto;
+    background-color: #f7f7f7 ;
+    border:10px solid  #cccccc ;
+    border-radius: 10px;
+    
+    
+    
+}
+input{
+    font-size:23px;
+    border: 15px solid #999999; 
+    background-color: #f2f2f2;
+    height:70px ;
+    border-radius: 12px;
+}
+button{
+    
+    height: 45px;
+    width:70px;
+    font-size: 23px;
+    background-color:#4CAF50;
+    border:5px solid #4CAF50;
+    border-radius: 15px;
+    opacity: 0.9;
+   
+}
+
+.button-body{
+    display:inline-block;
+}
+h1,h2{
+ font-family: 'Ubuntu', sans-serif; 
+}
